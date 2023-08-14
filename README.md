@@ -9,8 +9,7 @@ with all the posted grounds and view them individually by clicking on a node.
 - This app was made with **HTML, CSS and Javascript**
 - **Express** was used for the backend
 - **EJS** was used alongside **Bootstrap** for rendering and styling the various views
-- **MongoDB** and **Mongoose** were used to model the database. **MongoDB Atlas**
-was then used to host the database
+- **MongoDB**, **Mongoose** and **MongoDB Atlas** were used to model the database and deploy it to a cloud cluster. 
 - Various other technologies were used such as:
   - Cloudinary (for storing images)
   -  MapBox (for maps and geocoding)
